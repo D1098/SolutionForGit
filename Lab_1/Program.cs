@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace SolutionForGit
+namespace Lab_1
 {
-    // Рыбальченко Д.А. Задание к теме 1.
     class Program
     {
         static void Main(string[] args)
