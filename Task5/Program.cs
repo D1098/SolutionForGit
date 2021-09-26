@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task5
+namespace Lab5
 {
     /// <summary>
     /// Шаблон точки.
