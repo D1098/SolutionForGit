@@ -35,7 +35,7 @@ namespace Task5
                                + "\n AC + BC = " + Distance(a, c) + Distance(b, c));
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             //Задача 1
             Point a = new Point(-1, 2);
