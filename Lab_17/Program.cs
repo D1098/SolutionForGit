@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+
 namespace Lab_17
 {
     class Program
